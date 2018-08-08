@@ -28,4 +28,6 @@ public class FileTest {
 			file.createNewFile();
 		}
 	}
+	
+	// ²âÊÔĞŞ¸Ä
 }
